@@ -1,3 +1,3 @@
-# GEOJSON UNIONE CAMERE
+# GEOJSON RIPARTIZIONE GEOGRAFICA
 
-Questo repository contiene il file che raggrupp le camere di commercio italiane per ripartizione geografica.
+Questo repository contiene il file che raggruppa le regioni italiane per ripartizione geografica.
